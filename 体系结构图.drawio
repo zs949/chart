@@ -1,29 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T05:57:06.537Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="dLAF5BoaHWk2Ppl6wVx-" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T06:15:37.480Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="aEn6LzuXBD5WeZzQqAz-" version="17.4.6" type="github">
   <diagram id="sHgI5tm2t7_yWHwsllLj" name="Page-1">
-    <mxGraphModel dx="480" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="480" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IVKgsKoWuxMzUTZAROl3-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;用户管理模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IVKgsKoWuxMzUTZAROl3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IVKgsKoWuxMzUTZAROl3-8" target="IVKgsKoWuxMzUTZAROl3-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IVKgsKoWuxMzUTZAROl3-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;训练模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IVKgsKoWuxMzUTZAROl3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IVKgsKoWuxMzUTZAROl3-8" target="IVKgsKoWuxMzUTZAROl3-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IVKgsKoWuxMzUTZAROl3-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;评&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;定&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IVKgsKoWuxMzUTZAROl3-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;娱乐休闲模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IVKgsKoWuxMzUTZAROl3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IVKgsKoWuxMzUTZAROl3-8" target="IVKgsKoWuxMzUTZAROl3-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IVKgsKoWuxMzUTZAROl3-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;训练&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;方案模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IVKgsKoWuxMzUTZAROl3-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;历史记录&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IVKgsKoWuxMzUTZAROl3-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;系统&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0000pt&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;设置模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IVKgsKoWuxMzUTZAROl3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IVKgsKoWuxMzUTZAROl3-8" target="IVKgsKoWuxMzUTZAROl3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVKgsKoWuxMzUTZAROl3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IVKgsKoWuxMzUTZAROl3-8" target="IVKgsKoWuxMzUTZAROl3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVKgsKoWuxMzUTZAROl3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IVKgsKoWuxMzUTZAROl3-8" target="IVKgsKoWuxMzUTZAROl3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVKgsKoWuxMzUTZAROl3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="IVKgsKoWuxMzUTZAROl3-8" target="IVKgsKoWuxMzUTZAROl3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVKgsKoWuxMzUTZAROl3-8" value="认知康复训练与评估软件" style="rounded=0;html=1;align=center;horizontal=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="255" width="40" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
