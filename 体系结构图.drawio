@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T06:15:37.480Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="aEn6LzuXBD5WeZzQqAz-" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T06:15:58.249Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="fNQRt-JngPj9ezzzyFuC" version="17.4.6" type="github">
   <diagram id="sHgI5tm2t7_yWHwsllLj" name="Page-1">
     <mxGraphModel dx="480" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IVKgsKoWuxMzUTZAROl3-8" value="认知康复训练与评估软件" style="rounded=0;html=1;align=center;horizontal=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="110" y="255" width="40" height="150" as="geometry" />
+          <mxGeometry x="90" y="255" width="60" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
